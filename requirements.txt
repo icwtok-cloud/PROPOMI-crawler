@@ -1,0 +1,4 @@
+sqlalchemy>=2.0
+pydantic>=2.0
+phonenumbers>=8.13
+psycopg2-binary>=2.9
